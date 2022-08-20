@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Joseph",
+      "empresa": "React native",
+      "email": "joseph.rune.al@gmail.com",
+      "telefono": "936506629",
+      "notas": "sasd",
+      "id": 1
+    },
+    {
+      "nombre": "Carla",
+      "empresa": "Pollos Hermanos",
+      "email": "carla-a@hotmail.com",
+      "telefono": "936506629",
+      "notas": "Pollito con papas eso me gusta a mi",
+      "id": 2
+    },
+    {
+      "nombre": "Carol",
+      "empresa": "G y M",
+      "email": "carol_dita@hotmail.com",
+      "telefono": "987654321",
+      "notas": "Empresa dedicada a las decoraciones",
+      "id": 4
+    },
+    {
+      "nombre": "Bongo",
+      "empresa": "Sedapal",
+      "email": "bongo_jtc_17@hotmail.com",
+      "telefono": "955955955",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Angelica",
+      "empresa": "Decoracion de interiores",
+      "email": "angela@hotmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Nicolas",
+      "empresa": "Java",
+      "email": "nico@nico.com",
+      "telefono": "123",
+      "notas": "Spring boot",
+      "id": 8
+    }
+  ]
+}
